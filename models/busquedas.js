@@ -10,7 +10,11 @@ class Busquedas {
 
     async ciudad (lugar = '') {
         
-        console.log('CITY ::',lugar);
+        try {
+            
+        } catch (error) {
+            
+        }
 
         return [];//retornar lugares
     }
