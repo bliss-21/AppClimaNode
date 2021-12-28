@@ -5,6 +5,7 @@
 - [axios v0.24.0](https://www.npmjs.com/package/axios)
 - [colors v1.4.0](https://www.npmjs.com/package/colors)
 - [inquirer v8.2.0](https://www.npmjs.com/package/inquirer)
+- [dotenv v10.0.0](https://www.npmjs.com/package/dotenv)
 
 ## APIs implementadas
 - [mapbox](https://www.mapbox.com/)
