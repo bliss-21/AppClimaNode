@@ -8,4 +8,5 @@
 - [dotenv v10.0.0](https://www.npmjs.com/package/dotenv)
 
 ## APIs implementadas
-- [mapbox](https://www.mapbox.com/)
+- [Mapbox](https://www.mapbox.com/)
+- [OpenWeather](https://openweathermap.org/)
